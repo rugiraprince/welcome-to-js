@@ -5,18 +5,6 @@ understand interactive JS programs.
 
 ---
 
-## Prep Work
-
-- from `javascript.info`: [DevTools](https://javascript.info/devtools),
-  [Debugging Chrome](https://javascript.info/debugging-chrome)
-- Study
-  [/3-understanding-programs/1-predicting-execution](../../3-understanding-programs/1-predicting-execution/?--defaults)
-  - `devtool-setup.mp4`
-  - `guide.mp4`
-  - the JS files
-
----
-
 ## Learning Objectives
 
 - 🥚 **Stepping Through**: You can use the _Step_ button to go through a program
@@ -43,17 +31,12 @@ understand interactive JS programs.
 
 Practice stepping and skipping through programs using your browser's debugger.
 
-### Before Break
+### After Break
 
 - **All Together**: A coach demonstrates the debugger features in
   `/1-isolate/examples`
 - **In Small Groups**: Practice stepping through and predicting the programs in
   `/1-isolate/exercises`
-
-**Break!**
-
-### After Break
-
 - **All Together**: A coach demonstrates how to step through JavaScript in an
   HTML project with `/2-integrate/examples`
 - **In Small Groups**: Practice stepping through and predicting the programs in
@@ -77,9 +60,12 @@ Integrate</a>
 
 ## After Class
 
-No deliverables. Just lots of study time, alone and in groups. Here's some ideas
-for what to focus on after this lesson:
-
+- 🥚 [compute-it](http://compute-it.toxicode.fr/) (all of it), 🐣
+  [little-dot](http://little-dot.toxicode.fr/)
+- Continue studying your favorite online tutorials
+- Finish `/1-what-is-programming` and study as much as you can from
+  `/2-just-enough-javascript`
+- `/0-flashcards`: ~20 minutes every day (add more cards as you go!)
 - Continue studying your favorite online tutorials
 - Finish studying `/2-just-enough-javascript` if you haven't yet
 - Study `/3-understanding-programs`

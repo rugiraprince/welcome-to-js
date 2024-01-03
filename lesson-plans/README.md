@@ -1,6 +1,11 @@
 # Lesson Plans
 
-If you are using this material with teachers and students check out these lesson
-plans for some ideas what to cover in class.
+## Week 1
 
-Got more ideas for lesson plans around this material? Send a PR!
+- [computers and Developers](./computers-and-developers/README.md)
+- [Dev tools and Debugger](./devtools-debugger/README.md)
+
+## Week 2
+
+- [Errors and Bugs](./errors-and-bugs/README.md)
+- [Writing and Reviewing code](./writing-and-reviewing/README.md)

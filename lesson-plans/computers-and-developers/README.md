@@ -21,6 +21,13 @@ Explore how Computers and Developers read the same code in different ways.
   - [JS Fundamentals - Variables](https://javascript.info/variables)
   - [JS Variables](https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/variables.html)
   - [JavaScript Variables and Constants](https://www.programiz.com/javascript/variables-constants)
+- from `javascript.info`: [DevTools](https://javascript.info/devtools),
+  [Debugging Chrome](https://javascript.info/debugging-chrome)
+- Study
+  [/3-understanding-programs/1-predicting-execution](../../3-understanding-programs/1-predicting-execution/?--defaults)
+  - `devtool-setup.mp4`
+  - `guide.mp4`
+  - the JS files
 
 ---
 
@@ -55,18 +62,6 @@ will be a mystery!
   - Study examples 4 & 5 again with your classmates
   - Begin `tracing-variables/exercises`
 
-**Break!**
-
-### After Break
-
-- **In Small Groups**:
-  - Continue studying `tracing-variables/exercises`
-- **All Together** Regroup with ~30 minutes left at the end of class for each
-  group to present:
-  - what went well?
-  - what went less well?
-  - lessons learned
-
 ---
 
 <img src="../../assets/computers-and-developers.svg" alt="rhetorical situation" style="height: 85%; width: 85%;">
@@ -77,15 +72,3 @@ will be a mystery!
 Tracing Variables </a>
 
 ---
-
-## After Class
-
-No deliverables. Just lots of study time, alone and in groups. Here's some ideas
-for what to focus on:
-
-- 🥚 [compute-it](http://compute-it.toxicode.fr/) (all of it), 🐣
-  [little-dot](http://little-dot.toxicode.fr/)
-- Continue studying your favorite online tutorials
-- Finish `/1-what-is-programming` and study as much as you can from
-  `/2-just-enough-javascript`
-- `/0-flashcards`: ~20 minutes every day (add more cards as you go!)

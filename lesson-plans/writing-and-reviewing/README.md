@@ -2,13 +2,6 @@
 
 ---
 
-## Prep Work
-
-- Study `/3-understanding-programs/7-code-review`
-- Read through `/4-developing-programs/0-pair-programming`
-
----
-
 ## Learning Objectives
 
 - 🥚 **Pair Programming**: You can explain the two roles in pair programming
@@ -28,7 +21,7 @@
 
 ## During Class
 
-### Before Break
+### After Break
 
 - **All Together**: Read through the challenge's specs, test cases & use the
   obfuscated solution so everyone understands the expected behavior.
@@ -36,11 +29,6 @@
   challenge. Take your time and use the `review.js` as a guide to write the best
   code you can.
   - Done early? Try writing more solutions
-
-**Break!**
-
-### After Break
-
 - **In Pairs**: Find another pair to work with:
   - Swap programs and review each others' code, without talking to each other!
     If one pair wrote more than one solution, just pick one to review
@@ -64,6 +52,9 @@
 No deliverables. Just lots of study time, alone and in groups. Here's some ideas
 for what to focus on after this lesson:
 
+- Continue studying your favorite online tutorials
+- Study `/4-developing-programs`
+- `/0-flashcards`: ~20 minutes every day (add more cards as you go!)
 - Continue studying your favorite online tutorials
 - Study `/4-developing-programs`
 - `/0-flashcards`: ~20 minutes every day (add more cards as you go!)

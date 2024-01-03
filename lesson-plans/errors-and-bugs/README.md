@@ -5,6 +5,13 @@ understand interactive JS programs.
 
 ---
 
+## Prep Work
+
+- Study `/3-understanding-programs/7-code-review`
+- Read through `/4-developing-programs/0-pair-programming`
+
+---
+
 ## Learning Objectives
 
 - Errors
@@ -30,11 +37,6 @@ Practice fixing errors and bugs in a program.
 
 - **All Together**: [Errors](./1-errors/README.md?--defaults)
 - **In Small Groups**: Practice the exercises in `./1-errors`
-
-**Break!**
-
-### After Break
-
 - **All Together**: [Bugs](./2-bugs/README.md?--defaults)
 - **In Small Groups**: Practice the exercises in `./2-bugs`
 - **All Together** Regroup with ~20 minutes left at the end of class for each
@@ -44,12 +46,3 @@ Practice fixing errors and bugs in a program.
   - lessons learned
 
 ---
-
-## After Class
-
-No deliverables. Just lots of study time, alone and in groups. Here's some ideas
-for what to focus on after this lesson:
-
-- Continue studying your favorite online tutorials
-- Study `/4-developing-programs`
-- `/0-flashcards`: ~20 minutes every day (add more cards as you go!)
