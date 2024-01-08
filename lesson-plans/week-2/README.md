@@ -1,25 +1,27 @@
-# Writing & Reviewing
+# Week 2
 
----
+## Prep Work
 
-## Learning Objectives
-
-- 🥚 **Pair Programming**: You can explain the two roles in pair programming
-  (_driver_ and _navigator_), and are comfortable trying either role.
-- 🐣 **Code Review**: You can work in pairs to review your classmates' programs,
-  including incomplete programs or programs that do not work as expected.
-- 🐣 **Giving Feedback**: You can give constructive feedback to your classmates
-  about their code after you had a chance to review it.
-- 🐣 **Learning From Code**: You can clearly explain at least 2 things you
-  learned from studying your classmates' programs.
-- 🐥 **Writing Programs**: You can use Pair Programming to write code to satisfy
-  user a story, acceptance criteria & test cases.
-- 🐔 **Multiple Solutions**: You can write more than one solution to the same
-  code challenge.
-
----
+- Study `/3-understanding-programs/7-code-review`
+- Read through `/4-developing-programs/0-pair-programming`
 
 ## During Class
+
+Practice fixing errors and bugs in a program and how to write and review code.
+
+### Before Break
+
+- **All Together**: [Errors](../week-2/errors-and-bugs/1-errors/README.md?--defaults)
+- **In Small Groups**: Practice the exercises in `./1-errors`
+- **All Together**: [Bugs](../week-2/errors-and-bugs/2-bugs/README.md?--defaults)
+- **In Small Groups**: Practice the exercises in `./2-bugs`
+- **All Together** Regroup with ~20 minutes left at the end of class for each
+  group to present:
+  - what went well?
+  - what went less well?
+  - lessons learned
+
+---
 
 ### After Break
 
@@ -43,7 +45,7 @@
 
 ---
 
-<a href="./bouncify?stepped" target="_blank">The Challenge: Bouncify</a>
+<a href="../week-2/writing-and-reviewing/bouncify?stepped" target="_blank">The Challenge: Bouncify</a>
 
 ---
 
@@ -52,9 +54,6 @@
 No deliverables. Just lots of study time, alone and in groups. Here's some ideas
 for what to focus on after this lesson:
 
-- Continue studying your favorite online tutorials
-- Study `/4-developing-programs`
 - `/0-flashcards`: ~20 minutes every day (add more cards as you go!)
 - Continue studying your favorite online tutorials
 - Study `/4-developing-programs`
-- `/0-flashcards`: ~20 minutes every day (add more cards as you go!)
