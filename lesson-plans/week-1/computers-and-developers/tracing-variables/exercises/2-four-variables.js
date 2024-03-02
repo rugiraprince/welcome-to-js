@@ -6,6 +6,7 @@
     use the [table] button to write down your predictions
 
   study tips: [variables], [open in] jsTutor, [ask me]
+  
 
 */
 

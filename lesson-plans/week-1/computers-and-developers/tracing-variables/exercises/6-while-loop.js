@@ -1,6 +1,6 @@
 'use strict';
 
-let a = '*';
+let a = '<>';
 // let a = '<>';
 // let a = '|-|';
 // let a = '';
